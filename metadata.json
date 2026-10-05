@@ -1,0 +1,6 @@
+{
+  "name": "Customer Classification using AdaBoost",
+  "description": "Interactive machine learning application demonstrating customer classification with AdaBoost and Decision Tree baseline, performance comparison, and real-time predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

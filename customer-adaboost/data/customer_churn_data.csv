@@ -1,0 +1,21 @@
+customer_id,age,gender,tenure_months,monthly_charges,total_charges,contract_type,internet_service,support_calls,payment_method,num_products,customer_class,churn_status
+CUST-0001,42,Female,3,89.5,268.5,"Month-to-month","Fiber optic",5,"Electronic check",1,1,Churn Risk
+CUST-0002,58,Male,48,52.4,2515.2,"Two year","DSL",1,"Credit card",4,0,Retained
+CUST-0003,29,Male,12,74.2,890.4,"Month-to-month","Fiber optic",3,"Electronic check",2,1,Churn Risk
+CUST-0004,64,Female,60,105.8,6348.0,"Two year","Fiber optic",1,"Bank transfer",5,0,Retained
+CUST-0005,35,Female,7,65.0,455.0,"Month-to-month","DSL",4,"Electronic check",2,1,Churn Risk
+CUST-0006,51,Male,36,45.2,1627.2,"One year","DSL",0,"Mailed check",3,0,Retained
+CUST-0007,24,Female,2,98.1,196.2,"Month-to-month","Fiber optic",6,"Electronic check",1,1,Churn Risk
+CUST-0008,47,Male,55,20.5,1127.5,"Two year","No",0,"Bank transfer",1,0,Retained
+CUST-0009,38,Female,18,84.6,1522.8,"One year","Fiber optic",2,"Credit card",3,0,Retained
+CUST-0010,61,Male,5,71.0,355.0,"Month-to-month","DSL",4,"Electronic check",2,1,Churn Risk
+CUST-0011,33,Male,42,108.5,4557.0,"Two year","Fiber optic",1,"Credit card",5,0,Retained
+CUST-0012,28,Female,6,92.0,552.0,"Month-to-month","Fiber optic",4,"Electronic check",1,1,Churn Risk
+CUST-0013,54,Male,65,64.8,4212.0,"Two year","DSL",1,"Bank transfer",4,0,Retained
+CUST-0014,40,Female,15,55.0,825.0,"One year","DSL",2,"Mailed check",2,0,Retained
+CUST-0015,22,Male,1,85.0,85.0,"Month-to-month","Fiber optic",5,"Electronic check",1,1,Churn Risk
+CUST-0016,67,Female,70,115.0,8050.0,"Two year","Fiber optic",0,"Credit card",6,0,Retained
+CUST-0017,45,Male,9,79.5,715.5,"Month-to-month","Fiber optic",3,"Electronic check",2,1,Churn Risk
+CUST-0018,31,Female,28,24.5,686.0,"One year","No",1,"Mailed check",2,0,Retained
+CUST-0019,59,Male,4,96.0,384.0,"Month-to-month","Fiber optic",5,"Electronic check",1,1,Churn Risk
+CUST-0020,36,Female,50,68.0,3400.0,"Two year","DSL",0,"Bank transfer",3,0,Retained
